@@ -44,4 +44,4 @@ To build an interactive dashboard that helps in understanding business performan
 ## 🔗 Author
 
 **NAVEEN KUMAR S**  
-[Your GitHub Profile](https://github.com/naveenkumar279)
+[Contact Me](https://github.com/naveenkumar279)  
